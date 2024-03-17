@@ -1,7 +1,7 @@
 # LM386_Audio_Amplifier
 The LM386 is a power amplifier designed for use in low voltage consumer applications.
 <br>
-<center><b>Link to TikTok Video : (https://vm.tiktok.com/ZGeP2qJXm/)</b></center>
+<center><b>Link to TikTok Video : https://vm.tiktok.com/ZGeP2qJXm/</b></center>
 <br/>
 
 
